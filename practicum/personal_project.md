@@ -19,7 +19,19 @@ In your analysis, you can use techniques we have seen in class, or other techniq
 
 Think of a fun "pet project" worthy of a data scientist. **Make it personal, interesting, fun, and wholesome.**
 
-## What to deliver
+## Pre-delivery: concept note (1 slide)
+
+You should pre-deliver a concept note. One slide, with readable text, containing:
+
+* A **descriptive title**, e.g.: "Sleep analysis of domestic cat" followed by an *optional* evocative title, e.g.: "The purr-fect nap"
+* (A) **How** will you capture data, e.g.: "I will stay with my cat during her naps"
+* (B) **How much** data will you capture, e.g.: "I will capture a minimum of 20 naps"
+* (C) **Which features** will you capture, e.g.: "I will capture: timestamp, eye movement, paw movement, whisker movement, and time slept/aware"
+* (D) **Which question** will you answer, e.g.: "I have the suspicion my cat sleeps more than other cats, I will compare against the average of 15-30 minutes. I also want to know if my cat rests, by checking how much she moves during sleep."
+
+The ideal project answers a specific question, and has an actionable and specific outcome. Do not submit something vague like "understanding" or "exploring".
+
+## Delivery: report (3 pages)
 
 A three-page report using [ACM](https://www.acm.org/publications/proceedings-template) or [IEEE](https://www.ieee.org/conferences/publishing/templates) proceedings format, including:
 * **Title**: should be descriptive or fun (puns encouraged)
@@ -49,4 +61,4 @@ Please note that the following will lead to a zero grade.
 
 * Your project has nothing to do with you, e.g., you simply used an existing dataset.
 * Your report does not look as if it was written by you. This is about you, I want to read **your writing.**
-* Your project captures other people's personal data without their consent.
+* Your project captures other people's personal data without their consent. Nobody else but you should be identifiable by your report or your dataset.
